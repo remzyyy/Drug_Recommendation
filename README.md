@@ -1,4 +1,4 @@
-🏥 Disease Prediction & Drug Recommendation System
+🏥 Disease Prediction & Drug Recommendation System \n
  Major Project (2024)
  Department Computer Science Engineering (CSE)
 
