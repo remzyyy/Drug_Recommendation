@@ -105,7 +105,7 @@ Disease-Prediction-and-Drug-Recommendation-Prototype/
 ## ⚠️ Disclaimer
 This system is a prototype for educational purposes. Always consult healthcare professionals for medical advice.
 
-## 👨‍💻 Project Team
+## 👨‍💻 Project 
 - Student Name: Rameez Siddiqui
 - Roll Number: b122089
 - Department: Computer Science Engineering
